@@ -11,7 +11,8 @@ public class Main {
 
                 l.addFirst(s1);
 
-              System.out.println(stg.getStudent(0).getId());
+              System.out.println(l.getStudent(0).getId());
+
 
 
 
